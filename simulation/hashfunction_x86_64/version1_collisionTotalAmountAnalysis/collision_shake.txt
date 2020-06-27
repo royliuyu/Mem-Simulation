@@ -1,0 +1,14 @@
+Data source                   First colission position             Number of collided data          Total collissions               First collided data
+output_shake_12.dat           0    -> 4786                         4096                             96077                           413                                                             
+output_shake_16.dat           0    -> 24439                        29476                            48816                           4132                                                            
+output_shake_20.dat           0    -> 50566                        4495                             4654                            41329                                                           
+output_shake_24.dat           84   -> 59279                        308                              308                             dcf0c3                                                          
+output_shake_28.dat           3553 -> 32097                        12                               12                              06e3879                                                         
+output_shake_32.dat           3553 -> 32097                        1                                1                               06e3879b                                                        
+output_shake_36.dat           0    -> 0                            0                                0                                                                                               
+output_shake_40.dat           0    -> 0                            0                                0                                                                                               
+output_shake_48.dat           0    -> 0                            0                                0                                                                                               
+output_shake_56.dat           0    -> 0                            0                                0                                                                                               
+output_shake_64.dat           0    -> 0                            0                                0                                                                                               
+output_shake126.dat           0    -> 0                            0                                0                                                                                               
+output_shake256.dat           0    -> 0                            0                                0                                                                                               
