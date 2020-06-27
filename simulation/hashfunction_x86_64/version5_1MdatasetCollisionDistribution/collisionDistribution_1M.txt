@@ -1,0 +1,9 @@
+Collision Distribution:
+
+Range of Items:    100000    200000    300000    400000    500000    600000    700000    800000    900000    1000000    
+shake_1M_16.dat: 48664     88920     97546     99503     99865     99974     99996     99997     99999     100000    Total Collisions: 934464
+shake_1M_20.dat: 4570      13280     21178     28345     34639     40926     46425     51181     55464     59674     Total Collisions: 355682
+shake_1M_24.dat: 293       869       1420      2093      2677      3199      3767      4277      4949      5639      Total Collisions: 29183
+shake_1M_28.dat: 21        57        93        138       186       187       259       267       328       335       Total Collisions: 1871
+shake_1M_32.dat: 4         0         7         6         10        9         14        15        19        20        Total Collisions: 104
+shake_1M_36.dat: 0         0         0         0         0         0         2         1         0         1         Total Collisions: 4
