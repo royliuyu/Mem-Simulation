@@ -1,0 +1,1000 @@
+protein_external_id	preferred_name	protein_size	annotation
+287.DR97_1	DR97_1	749	annotation not available
+287.DR97_10	DR97_10	758	annotation not available
+287.DR97_100	nasS	402	annotation not available
+287.DR97_1000	DR97_1000	63	annotation not available
+287.DR97_1001	DR97_1001	442	annotation not available
+287.DR97_1002	yaiL	179	Nucleoprotein/polynucleotide-associated enzyme
+287.DR97_1003	lpxO2	312	annotation not available
+287.DR97_1004	mazG	276	Nucleoside triphosphate pyrophosphohydrolase; mazG: MazG family protein
+287.DR97_1005	relA	747	GTP pyrophosphokinase; In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance
+287.DR97_1006	rumA	450	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD; Catalyzes the formation of 5-methyl-uridine at position 1939 (m5U1939) in 23S rRNA
+287.DR97_1007	cysM	299	cysM: cysteine synthase B; Belongs to the cysteine synthase/cystathionine beta- synthase family
+287.DR97_1008	pfeA1	693	Ferric enterobactin receptor; tonB-siderophor: TonB-dependent siderophore receptor family protein
+287.DR97_1009	pfeS1	446	annotation not available
+287.DR97_101	nasT	192	annotation not available
+287.DR97_1010	pfeR1	239	Transcriptional regulatory , C terminal family protein
+287.DR97_1011	gacS	925	annotation not available
+287.DR97_1012	ddh	329	annotation not available
+287.DR97_1013	DR97_1013	141	Uncharacterized protein
+287.DR97_1014	DR97_1014	135	annotation not available
+287.DR97_1015	DR97_1015	642	annotation not available
+287.DR97_1016	dinB	349	DNA polymerase IV; Poorly processive, error-prone DNA polymerase involved in untargeted mutagenesis. Copies undamaged DNA at stalled replication forks, which arise in vivo from mismatched or misaligned primer ends. These misaligned primers can be extended by PolIV. Exhibits no 3'-5' exonuclease (proofreading) activity. May be involved in translesional synthesis, in conjunction with the beta clamp from PolIII
+287.DR97_1018	DR97_1018	104	Transcriptional regulator
+287.DR97_1019	DR97_1019	119	annotation not available
+287.DR97_102	DR97_102	231	annotation not available
+287.DR97_1020	DR97_1020	881	Uncharacterized protein
+287.DR97_1021	DR97_1021	427	annotation not available
+287.DR97_1022	DR97_1022	182	annotation not available
+287.DR97_1023	kup	634	Probable potassium transport system protein kup; Transport of potassium into the cell
+287.DR97_1024	rimO	440	Ribosomal protein S12 methylthiotransferase RimO; Catalyzes the methylthiolation of an aspartic acid residue of ribosomal protein S12; Belongs to the methylthiotransferase family. RimO subfamily
+287.DR97_1025	DR97_1025	153	Uncharacterized protein
+287.DR97_1026	DR97_1026	130	Uncharacterized protein
+287.DR97_1027	mgtE	482	Magnesium transporter MgtE; Acts as a magnesium transporter
+287.DR97_1028	DR97_1028	179	Uncharacterized protein
+287.DR97_1029	DR97_1029	150	Conserved hypothetical protein
+287.DR97_103	DR97_103	403	2A0108: nitrite transporter family protein
+287.DR97_1030	DR97_1030	167	Uncharacterized protein
+287.DR97_1031	DR97_1031	91	Phage holin family protein
+287.DR97_1032	DR97_1032	124	annotation not available
+287.DR97_1033	DR97_1033	176	Uncharacterized protein
+287.DR97_1034	prtR3	237	annotation not available
+287.DR97_1038	DR97_1038	61	Carbon storage regulator homolog; Could accelerate the degradation of some genes transcripts potentially through selective RNA binding
+287.DR97_1039	lysC	412	Aspartokinase; Asp_kin_monofn: aspartate kinase, monofunctional class; Belongs to the aspartokinase family
+287.DR97_104	ppkB	555	annotation not available
+287.DR97_1040	alaS	874	Alanine--tRNA ligase; Catalyzes the attachment of alanine to tRNA(Ala) in a two-step reaction: alanine is first activated by ATP to form Ala- AMP and then transferred to the acceptor end of tRNA(Ala). Also edits incorrectly charged Ser-tRNA(Ala) and Gly-tRNA(Ala) via its editing domain
+287.DR97_1041	gly1	334	annotation not available
+287.DR97_1042	astE	332	Succinylglutamate desuccinylase; Transforms N(2)-succinylglutamate into succinate and glutamate; Belongs to the AspA/AstE family. Succinylglutamate desuccinylase subfamily
+287.DR97_1043	DR97_1043	96	annotation not available
+287.DR97_1044	astB	448	N-succinylarginine dihydrolase; Catalyzes the hydrolysis of N(2)-succinylarginine into N(2)-succinylornithine, ammonia and CO(2)
+287.DR97_1045	astD	487	N-succinylglutamate 5-semialdehyde dehydrogenase; Catalyzes the NAD-dependent reduction of succinylglutamate semialdehyde into succinylglutamate
+287.DR97_1046	astA	340	arg_catab_AstA: arginine N-succinyltransferase
+287.DR97_1047	aruF	338	arg_AOST_alph: arginine/ornithine succinyltransferase, alpha subunit
+287.DR97_1048	aruC	406	annotation not available
+287.DR97_1049	DR97_1049	86	Uncharacterized protein
+287.DR97_105	nirB	816	nitri_red_nirB: nitrite reductase [NAD(P)H], large subunit; Belongs to the nitrite and sulfite reductase 4Fe-4S domain family
+287.DR97_1050	argR	329	annotation not available
+287.DR97_1051	aotP3	254	annotation not available
+287.DR97_1052	aotO	370	annotation not available
+287.DR97_1053	aotM	232	Octopine transport system permease protein OccM; HEQRo_perm_3TM: amino ABC transporter, permease , 3-TM region, His/Glu/Gln/Arg/opine family domain protein
+287.DR97_1054	hisQ3	229	Histidine transport system permease protein HisQ; HEQRo_perm_3TM: amino ABC transporter, permease , 3-TM region, His/Glu/Gln/Arg/opine family domain protein
+287.DR97_1055	argT3	259	3A0103s03R: lysine-arginine-ornithine-binding periplasmic family protein; Belongs to the bacterial solute-binding protein 3 family
+287.DR97_1056	acsA1	651	Acetyl-coenzyme A synthetase; Catalyzes the conversion of acetate into acetyl-CoA (AcCoA), an essential intermediate at the junction of anabolic and catabolic pathways. AcsA undergoes a two-step reaction. In the first half reaction, AcsA combines acetate with ATP to form acetyl-adenylate (AcAMP) intermediate. In the second half reaction, it can then transfer the acetyl group from AcAMP to the sulfhydryl group of CoA, forming the product AcCoA; Belongs to the ATP-dependent AMP-binding enzyme family
+287.DR97_1057	dctM	427	dctM: TRAP transporter, DctM subunit
+287.DR97_1058	dctQ	212	annotation not available
+287.DR97_1059	dctP5	331	C4-dicarboxylate-binding periplasmic protein; dctP: TRAP transporter solute receptor, DctP family protein
+287.DR97_106	nirD	108	nirD_assim_sml: nitrite reductase [NAD(P)H], small subunit
+287.DR97_1060	DR97_1060	275	annotation not available
+287.DR97_1061	DR97_1061	400	annotation not available
+287.DR97_1062	DR97_1062	450	annotation not available
+287.DR97_1063	DR97_1063	126	Virulence protein STM3117
+287.DR97_1064	DR97_1064	386	acyl-CoA dehydrogenase, N-terminal domain protein
+287.DR97_1065	DR97_1065	275	N-terminal half of MaoC dehydratase family protein
+287.DR97_1066	gltC_1	298	annotation not available
+287.DR97_1067	DR97_1067	314	annotation not available
+287.DR97_1068	DR97_1068	731	annotation not available
+287.DR97_1069	DR97_1069	88	DUF2790 domain-containing protein
+287.DR97_107	DR97_107	908	annotation not available
+287.DR97_1070	tyrR1	519	annotation not available
+287.DR97_1071	phhA	262	Phe4hydrox_mono: phenylalanine-4-hydroxylase
+287.DR97_1072	phhB	118	annotation not available
+287.DR97_1073	phhC	399	annotation not available
+287.DR97_1074	pbpG	310	annotation not available
+287.DR97_1075	arfB	137	annotation not available
+287.DR97_1076	mliC	127	annotation not available
+287.DR97_1077	aroP3	472	annotation not available
+287.DR97_1078	hppD	357	4HPPD: 4-hydroxyphenylpyruvate dioxygenase
+287.DR97_1079	DR97_1079	262	annotation not available
+287.DR97_108	sumT	245	cobA_cysG_Cterm: uroporphyrinogen-III C-methyltransferase
+287.DR97_1080	DR97_1080	57	Putative membrane protein; xapX: XapX domain protein
+287.DR97_1081	DR97_1081	319	annotation not available
+287.DR97_1082	DR97_1082	260	annotation not available
+287.DR97_1083	DR97_1083	817	GGDEF: diguanylate cyclase domain protein
+287.DR97_1084	DR97_1084	596	annotation not available
+287.DR97_1085	DR97_1085	212	Conserved hypothetical protein
+287.DR97_1086	glpE_2	312	annotation not available
+287.DR97_1087	bolA	101	annotation not available
+287.DR97_1088	DR97_1088	167	Uncharacterized protein
+287.DR97_1089	DR97_1089	339	Uncharacterized protein
+287.DR97_109	oprF	350	annotation not available
+287.DR97_1090	fumC	464	Fumarate hydratase class II; Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate; Belongs to the class-II fumarase/aspartase family. Fumarase subfamily
+287.DR97_1091	DR97_1091	207	annotation not available
+287.DR97_1092	cbpD	389	annotation not available
+287.DR97_1093	tdcB_1	320	annotation not available
+287.DR97_1094	DR97_1094	139	annotation not available
+287.DR97_1095	trxB1	316	TRX_reduct: thioredoxin-disulfide reductase; Belongs to the class-II pyridine nucleotide-disulfide oxidoreductase family
+287.DR97_1096	DR97_1096	199	C-terminal domain of 1-Cys peroxiredoxin family protein
+287.DR97_1097	DR97_1097	651	GGDEF: diguanylate cyclase domain protein
+287.DR97_1098	cysZ	246	Sulfate transporter CysZ; High affinity, high specificity proton-dependent sulfate transporter, which mediates sulfate uptake. Provides the sulfur source for the cysteine synthesis pathway
+287.DR97_1099	dcd2A	670	annotation not available
+287.DR97_11	DR97_11	559	annotation not available
+287.DR97_110	sigX	128	sigma70-ECF: RNA polymerase sigma factor, sigma-70 family protein
+287.DR97_1100	plcH	730	PC_PLC: phospholipase C, phosphocholine-specific
+287.DR97_1101	plcR	207	plc_access_R: phospholipase C accessory protein PlcR
+287.DR97_1102	DR97_1102	406	annotation not available
+287.DR97_1103	DR97_1103	319	DegV domain-containing protein XAC3508
+287.DR97_1104	DR97_1104	370	Uncharacterized protein; NADH:flavin oxidoreductase / NADH oxidase family protein
+287.DR97_1105	DR97_1105	196	annotation not available
+287.DR97_1106	btuE	160	annotation not available
+287.DR97_1107	slyD	161	annotation not available
+287.DR97_1108	ackA1	394	Acetate kinase; Catalyzes the formation of acetyl phosphate from acetate and ATP. Can also catalyze the reverse reaction; Belongs to the acetokinase family
+287.DR97_1109	pta	704	Phosphate acetyltransferase; Involved in acetate metabolism; In the N-terminal section; belongs to the CobB/CobQ family
+287.DR97_111	cmpX	274	annotation not available
+287.DR97_1110	DR97_1110	304	annotation not available
+287.DR97_1111	yiaD_1	237	annotation not available
+287.DR97_1112	ycbL	213	annotation not available
+287.DR97_1113	oruR	339	annotation not available
+287.DR97_1114	DR97_1114	277	annotation not available
+287.DR97_1115	DR97_1115	313	annotation not available
+287.DR97_1116	DR97_1116	227	annotation not available
+287.DR97_1117	DR97_1117	292	Uncharacterized protein
+287.DR97_1119	DR97_1119	602	annotation not available
+287.DR97_112	crfX	82	annotation not available
+287.DR97_1120	DR97_1120	263	TIGR04255 family protein; sporadTIGR04255: TIGR04255 family protein
+287.DR97_1121	DR97_1121	211	annotation not available
+287.DR97_1122	DR97_1122	280	annotation not available
+287.DR97_1123	DR97_1123	214	Transposon Tn552 resolvase; Resolvase, N terminal domain protein
+287.DR97_1124	DR97_1124	139	annotation not available
+287.DR97_1125	DR97_1125	198	annotation not available
+287.DR97_1126	DR97_1126	318	annotation not available
+287.DR97_1127	DR97_1127	158	annotation not available
+287.DR97_1128	DR97_1128	242	annotation not available
+287.DR97_1129	DR97_1129	181	Uncharacterized protein
+287.DR97_113	cmaX	332	annotation not available
+287.DR97_1130	DR97_1130	87	annotation not available
+287.DR97_1131	DR97_1131	280	annotation not available
+287.DR97_1132	DR97_1132	161	Conserved hypothetical protein
+287.DR97_1133	DR97_1133	369	Uncharacterized protein
+287.DR97_1134	DR97_1134	602	Uncharacterized protein
+287.DR97_1135	DR97_1135	818	annotation not available
+287.DR97_1136	DR97_1136	496	Uncharacterized protein
+287.DR97_1137	DR97_1137	1130	annotation not available
+287.DR97_1138	DR97_1138	467	annotation not available
+287.DR97_1139	PACL_0292	230	annotation not available
+287.DR97_114	menG	162	4-hydroxy-4-methyl-2-oxoglutarate aldolase; Catalyzes the aldol cleavage of 4-hydroxy-4-methyl-2- oxoglutarate (HMG) into 2 molecules of pyruvate. Also contains a secondary oxaloacetate (OAA) decarboxylase activity due to the common pyruvate enolate transition state formed following C-C bond cleavage in the retro-aldol and decarboxylation reactions
+287.DR97_1140	PACL_0293	223	annotation not available
+287.DR97_1141	DR97_1141	448	annotation not available
+287.DR97_1142	DR97_1142	298	Conserved hypothetical protein
+287.DR97_1143	PACL_0296	575	annotation not available
+287.DR97_1144	PACL_0297	395	annotation not available
+287.DR97_1145	PACL_0298	527	annotation not available
+287.DR97_1146	DR97_1146	709	annotation not available
+287.DR97_1147	DR97_1147	1126	annotation not available
+287.DR97_1148	DR97_1148	493	annotation not available
+287.DR97_1149	PACL_0302	328	Uncharacterized protein
+287.DR97_115	estX	336	annotation not available
+287.DR97_1150	DR97_1150	55	Uncharacterized protein
+287.DR97_1151	DR97_1151	509	annotation not available
+287.DR97_1152	DR97_1152	373	annotation not available
+287.DR97_1153	DR97_1153	288	Uncharacterized protein; hisJ_fam: histidinol phosphate phosphatase, HisJ family protein
+287.DR97_1154	DR97_1154	342	Radical SAM domain-containing protein
+287.DR97_1155	PACL_0309	317	Uncharacterized protein
+287.DR97_1156	DR97_1156	256	annotation not available
+287.DR97_1157	DR97_1157	32	annotation not available
+287.DR97_1158	DR97_1158	47	annotation not available
+287.DR97_1159	PACL_0312	269	annotation not available
+287.DR97_116	ppsA	791	Phosphoenolpyruvate synthase; Catalyzes the phosphorylation of pyruvate to phosphoenolpyruvate; Belongs to the PEP-utilizing enzyme family
+287.DR97_1160	PACL_0313	209	annotation not available
+287.DR97_1161	DR97_1161	273	annotation not available
+287.DR97_1162	DR97_1162	102	annotation not available
+287.DR97_1163	DR97_1163	231	Conserved hypothetical protein
+287.DR97_1164	DR97_1164	90	Putative membrane protein
+287.DR97_1165	DR97_1165	141	annotation not available
+287.DR97_1166	DR97_1166	317	annotation not available
+287.DR97_1167	DR97_1167	294	annotation not available
+287.DR97_1168	DR97_1168	144	annotation not available
+287.DR97_1169	DR97_1169	415	annotation not available
+287.DR97_117	ydiA	272	Putative phosphoenolpyruvate synthase regulatory protein; Bifunctional serine/threonine kinase and phosphorylase involved in the regulation of the phosphoenolpyruvate synthase (PEPS) by catalyzing its phosphorylation/dephosphorylation
+287.DR97_1170	DR97_1170	431	Uncharacterized protein
+287.DR97_1171	DR97_1171	415	annotation not available
+287.DR97_1172	dehII	233	HAD_type_II: haloacid dehalogenase, type II
+287.DR97_1173	mntH2	438	Divalent metal cation transporter MntH; H(+)-stimulated, divalent metal cation uptake system
+287.DR97_1174	DR97_1174	157	Polyketide cyclase
+287.DR97_1175	amiD_2	255	annotation not available
+287.DR97_1176	DR97_1176	131	annotation not available
+287.DR97_1177	DR97_1177	75	Uncharacterized protein
+287.DR97_1178	yeaE	273	annotation not available
+287.DR97_1179	DR97_1179	146	annotation not available
+287.DR97_118	DR97_118	179	annotation not available
+287.DR97_1180	DR97_1180	107	Putative membrane protein
+287.DR97_1181	DR97_1181	506	annotation not available
+287.DR97_1182	DR97_1182	98	Conserved hypothetical protein
+287.DR97_1183	DR97_1183	773	Putative helicase; SNF2 family N-terminal domain protein
+287.DR97_1184	pmtA	203	annotation not available
+287.DR97_1185	csiR_1	240	annotation not available
+287.DR97_1186	prpB	298	2-methylisocitrate lyase; Catalyzes the thermodynamically favored C-C bond cleavage of (2R,3S)-2-methylisocitrate to yield pyruvate and succinate; Belongs to the isocitrate lyase/PEP mutase superfamily. Methylisocitrate lyase family
+287.DR97_1187	prpC	375	cit_synth_II: 2-methylcitrate synthase/citrate synthase II family protein; Belongs to the citrate synthase family
+287.DR97_1188	acnD	868	Aconitate hydratase; 2met_isocit_dHY: 2-methylisocitrate dehydratase, Fe/S-dependent
+287.DR97_1189	prpF	395	prpF: putative AcnD-accessory protein PrpF
+287.DR97_119	DR97_119	508	annotation not available
+287.DR97_1190	DR97_1190	262	annotation not available
+287.DR97_1191	prpD	494	prpD: 2-methylcitrate dehydratase
+287.DR97_1192	DR97_1192	271	annotation not available
+287.DR97_1193	ytnA	471	annotation not available
+287.DR97_1194	DR97_1194	67	Putative secreted protein
+287.DR97_1195	DR97_1195	997	annotation not available
+287.DR97_1196	DR97_1196	387	annotation not available
+287.DR97_1197	sugE_1	101	annotation not available
+287.DR97_1198	azoR1	212	FMN-dependent NADH-azoreductase; Catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. Requires NADH, but not NADPH, as an electron donor for its activity
+287.DR97_1199	DR97_1199	305	annotation not available
+287.DR97_12	DR97_12	216	annotation not available
+287.DR97_120	DR97_120	327	annotation not available
+287.DR97_1200	putP	506	na_Pro_sym: sodium/proline symporter; Belongs to the sodium:solute symporter (SSF) (TC 2.A.21) family
+287.DR97_1201	putA	1060	Bifunctional protein PutA; Oxidizes proline to glutamate for use as a carbon and nitrogen source; In the C-terminal section; belongs to the aldehyde dehydrogenase family
+287.DR97_1202	DR97_1202	687	annotation not available
+287.DR97_1203	pruR	250	annotation not available
+287.DR97_1204	lon2	799	Lon protease; ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner
+287.DR97_1205	icp	134	annotation not available
+287.DR97_1206	DR97_1206	250	annotation not available
+287.DR97_1207	DR97_1207	190	Uncharacterized protein
+287.DR97_1208	cmoA	246	Carboxy-S-adenosyl-L-methionine synthase; Catalyzes the conversion of S-adenosyl-L-methionine (SAM) to carboxy-S-adenosyl-L-methionine (Cx-SAM)
+287.DR97_1209	cmoB	322	tRNA U34 carboxymethyltransferase; Catalyzes carboxymethyl transfer from carboxy-S- adenosyl-L-methionine (Cx-SAM) to 5-hydroxyuridine (ho5U) to form 5-carboxymethoxyuridine (cmo5U) at position 34 in tRNAs
+287.DR97_121	DR97_121	395	annotation not available
+287.DR97_1210	pdxJ	248	Pyridoxine 5'-phosphate synthase; Catalyzes the complicated ring closure reaction between the two acyclic compounds 1-deoxy-D-xylulose-5-phosphate (DXP) and 3-amino-2-oxopropyl phosphate (1-amino-acetone-3-phosphate or AAP) to form pyridoxine 5'-phosphate (PNP) and inorganic phosphate
+287.DR97_1211	recO	233	DNA repair protein RecO; Involved in DNA repair and RecF pathway recombination
+287.DR97_1212	era	305	GTPase Era; An essential GTPase that binds both GDP and GTP, with rapid nucleotide exchange. Plays a role in 16S rRNA processing and 30S ribosomal subunit biogenesis and possibly also in cell cycle regulation and energy metabolism
+287.DR97_1213	rnc	229	Ribonuclease 3; Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Processes some mRNAs, and tRNAs when they are encoded in the rRNA operon. Processes pre- crRNA and tracrRNA of type II CRISPR loci if present in the organism
+287.DR97_1214	DR97_1214	125	DUF4845 domain-containing protein
+287.DR97_1215	lepB_1	284	sigpep_I_bact: signal peptidase I; Belongs to the peptidase S26 family
+287.DR97_1216	lepA	599	Elongation factor 4; Required for accurate and efficient protein synthesis under certain stress conditions. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Back- translocation proceeds from a post-translocation (POST) complex to a pre-translocation (PRE) complex, thus giving elongation factor G a second chance to translocate the tRNAs correctly. Binds to ribosomes in a GTP-dependent manner
+287.DR97_1217	mucD	474	Periplasmic serine endoprotease DegP-like; degP_htrA_DO: peptidase Do family protein; Belongs to the peptidase S1C family
+287.DR97_1218	mucC	151	annotation not available
+287.DR97_1219	mucB	316	annotation not available
+287.DR97_122	fadL_1	532	annotation not available
+287.DR97_1220	mucA	194	Sigma factor AlgU negative regulatory protein; Anti sigma-E RseA, N-terminal domain protein
+287.DR97_1221	algU	193	rpoE_Sigma70: RNA polymerase sigma factor RpoE; Belongs to the sigma-70 factor family. ECF subfamily
+287.DR97_1222	DR97_1222	150	Uncharacterized protein
+287.DR97_1223	nadB	538	L-aspartate oxidase; Catalyzes the oxidation of L-aspartate to iminoaspartate
+287.DR97_1224	cptB	84	annotation not available
+287.DR97_1225	ygfZ	314	annotation not available
+287.DR97_1226	DR97_1226	278	annotation not available
+287.DR97_1227	DR97_1227	460	annotation not available
+287.DR97_1228	DR97_1228	223	annotation not available
+287.DR97_1229	opdH	427	annotation not available
+287.DR97_123	DR97_123	341	annotation not available
+287.DR97_1230	DR97_1230	325	annotation not available
+287.DR97_1231	DR97_1231	156	annotation not available
+287.DR97_1232	DR97_1232	505	annotation not available
+287.DR97_1233	DR97_1233	345	Uncharacterized protein; gneg_AbrB_dup: membrane AbrB duplication domain protein
+287.DR97_1234	ung	231	Uracil-DNA glycosylase; Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine
+287.DR97_1235	DR97_1235	273	annotation not available
+287.DR97_1236	DR97_1236	293	annotation not available
+287.DR97_1237	mmsA3	502	MMSDH: methylmalonate-semialdehyde dehydrogenase
+287.DR97_1238	Acad8	387	Isobutyryl-CoA dehydrogenase, mitochondrial; acyl-CoA dehydrogenase, N-terminal domain protein
+287.DR97_1239	DR97_1239	272	annotation not available
+287.DR97_124	DR97_124	253	annotation not available
+287.DR97_1240	DR97_1240	367	annotation not available
+287.DR97_1241	DR97_1241	298	HIBADH: 3-hydroxyisobutyrate dehydrogenase
+287.DR97_1242	DR97_1242	214	annotation not available
+287.DR97_1243	ywnB	213	annotation not available
+287.DR97_1244	BDS1	658	annotation not available
+287.DR97_1245	sdsB3	304	annotation not available
+287.DR97_1246	DR97_1246	62	annotation not available
+287.DR97_1247	DR97_1247	81	Conserved hypothetical protein
+287.DR97_1248	DR97_1248	151	Uncharacterized protein
+287.DR97_1249	DR97_1249	57	annotation not available
+287.DR97_125	DR97_125	145	Uncharacterized protein
+287.DR97_1250	DR97_1250	358	Uncharacterized protein
+287.DR97_1251	DR97_1251	271	DUF4824 domain-containing protein
+287.DR97_1252	DR97_1252	70	annotation not available
+287.DR97_1253	rsuA	230	annotation not available
+287.DR97_1254	DR97_1254	347	annotation not available
+287.DR97_1255	DR97_1255	245	annotation not available
+287.DR97_1256	phaG	300	annotation not available
+287.DR97_1258	DR97_1258	617	annotation not available
+287.DR97_1259	DR97_1259	208	annotation not available
+287.DR97_126	DR97_126	907	annotation not available
+287.DR97_1260	ahdIC	99	annotation not available
+287.DR97_1261	DR97_1261	616	Uncharacterized protein; ICE_TraI_Pfluor: integrating conjugative element relaxase, PFGI-1 class
+287.DR97_1262	DR97_1262	306	Nucleotidyl transferase AbiEii/AbiGii toxin family protein
+287.DR97_1263	DR97_1263	252	Uncharacterized protein
+287.DR97_1264	DR97_1264	122	Conserved hypothetical protein
+287.DR97_1265	DR97_1265	507	traG-like , N-terminal region family protein
+287.DR97_1266	DR97_1266	117	Uncharacterized protein
+287.DR97_1267	DR97_1267	468	Integrating conjugative element protein, PFL_4711 family; conj_TIGR03755: integrating conjugative element protein, PFL_4711 family
+287.DR97_1268	DR97_1268	314	annotation not available
+287.DR97_1269	DR97_1269	149	Integrating conjugative element protein, family
+287.DR97_127	DR97_127	856	annotation not available
+287.DR97_1270	DR97_1270	164	Radc: DNA repair RadC family protein; Belongs to the UPF0758 family
+287.DR97_1271	DR97_1271	247	annotation not available
+287.DR97_1272	DR97_1272	962	Uncharacterized protein; Conjugative transfer ATPase, PFL_4706 family; traC_PFL_4706: conjugative transfer ATPase, PFL_4706 family
+287.DR97_1273	DR97_1273	144	TIGR03751 family conjugal transfer lipoprotein
+287.DR97_1274	DR97_1274	477	Integrating conjugative element protein
+287.DR97_1275	DR97_1275	304	DUF3438 domain-containing protein
+287.DR97_1276	DR97_1276	230	Integrating conjugative element protein
+287.DR97_1277	DR97_1277	136	Conserved hypothetical protein
+287.DR97_1278	DR97_1278	123	Conserved hypothetical protein
+287.DR97_1279	DR97_1279	79	Integrating conjugative element protein
+287.DR97_128	pabB	453	pabB: aminodeoxychorismate synthase, component I
+287.DR97_1280	DR97_1280	121	Raqprd family integrative conjugative element protein
+287.DR97_1281	DR97_1281	66	Excise: DNA binding , excisionase family domain protein
+287.DR97_1282	DR97_1282	959	annotation not available
+287.DR97_1283	DR97_1283	328	annotation not available
+287.DR97_1284	DR97_1284	781	annotation not available
+287.DR97_1285	DR97_1285	596	annotation not available
+287.DR97_1286	DR97_1286	565	annotation not available
+287.DR97_1287	DR97_1287	911	annotation not available
+287.DR97_1288	DR97_1288	875	DNA repair protein; recF/RecN/SMC N terminal domain protein
+287.DR97_1289	DR97_1289	249	Integrating conjugative element membrane protein
+287.DR97_129	thrH	205	HSK-PSP: phosphoserine phosphatase/homoserine phosphotransferase bifunctional protein
+287.DR97_1290	DR97_1290	718	Uncharacterized protein; conj_TOL_TraD: conjugative coupling factor TraD, PFGI-1 class
+287.DR97_1291	DR97_1291	177	Integrating conjugative element , PFL_4695 family domain protein; ICE_PFL_4695: integrating conjugative element , PFL_4695 family domain protein
+287.DR97_1292	DR97_1292	206	annotation not available
+287.DR97_1293	DR97_1293	239	annotation not available
+287.DR97_1294	DR97_1294	215	Uncharacterized protein
+287.DR97_1295	DR97_1295	189	annotation not available
+287.DR97_1296	DR97_1296	757	SNF2 family N-terminal domain protein
+287.DR97_1297	DR97_1297	101	annotation not available
+287.DR97_1298	DR97_1298	369	annotation not available
+287.DR97_1299	DR97_1299	216	Uncharacterized protein
+287.DR97_13	modA	251	modA: molybdate ABC transporter, periplasmic molybdate-binding protein
+287.DR97_130	cysH	244	Phosphoadenosine phosphosulfate reductase; Reduction of activated sulfate into sulfite; Belongs to the PAPS reductase family. CysH subfamily
+287.DR97_1300	DR97_1300	121	Conserved hypothetical protein
+287.DR97_1301	DR97_1301	203	DUF3275 domain-containing protein
+287.DR97_1302	DR97_1302	183	DUF3577 domain-containing protein
+287.DR97_1303	DR97_1303	121	DUF3085 domain-containing protein
+287.DR97_1304	DR97_1304	265	GTPase
+287.DR97_1305	DR97_1305	238	ABC transporter substrate-binding protein
+287.DR97_1306	DR97_1306	130	Uncharacterized protein
+287.DR97_1307	DR97_1307	78	Uncharacterized protein
+287.DR97_1308	DR97_1308	671	topB: DNA topoisomerase III family protein
+287.DR97_1309	DR97_1309	244	annotation not available
+287.DR97_131	DR97_131	115	Uncharacterized protein
+287.DR97_1310	DR97_1310	127	annotation not available
+287.DR97_1311	DR97_1311	182	Uncharacterized protein
+287.DR97_1312	DR97_1312	262	Integrating conjugative element protein
+287.DR97_1313	DR97_1313	250	annotation not available
+287.DR97_1314	DR97_1314	397	Uncharacterized protein
+287.DR97_1315	DR97_1315	186	DUF2857 domain-containing protein
+287.DR97_1316	DR97_1316	547	annotation not available
+287.DR97_1317	DR97_1317	78	Conserved hypothetical protein
+287.DR97_1318	DR97_1318	288	annotation not available
+287.DR97_1319	DR97_1319	72	annotation not available
+287.DR97_132	cysB	324	annotation not available
+287.DR97_1320	DR97_1320	252	annotation not available
+287.DR97_1321	DR97_1321	302	annotation not available
+287.DR97_1322	DR97_1322	50	annotation not available
+287.DR97_1323	DR97_1323	58	annotation not available
+287.DR97_1324	coxA2	125	annotation not available
+287.DR97_1325	DR97_1325	189	annotation not available
+287.DR97_1326	clpB5	949	annotation not available
+287.DR97_1327	DR97_1327	476	Cardiolipin synthetase; Catalyzes the reversible phosphatidyl group transfer from one phosphatidylglycerol molecule to another to form cardiolipin (CL) (diphosphatidylglycerol) and glycerol
+287.DR97_1328	ftsH3	609	ATP-dependent zinc metalloprotease FtsH; Acts as a processive, ATP-dependent zinc metallopeptidase for both cytoplasmic and membrane proteins. Plays a role in the quality control of integral membrane proteins; Belongs to the AAA ATPase family
+287.DR97_1329	hspA	152	annotation not available
+287.DR97_133	DR97_133	165	annotation not available
+287.DR97_1330	DR97_1330	304	annotation not available
+287.DR97_1331	DR97_1331	295	annotation not available
+287.DR97_1332	DR97_1332	203	Conserved hypothetical protein
+287.DR97_1333	DR97_1333	381	Uncharacterized protein
+287.DR97_1334	DR97_1334	146	Thioredoxin: thioredoxin
+287.DR97_1335	DR97_1335	571	annotation not available
+287.DR97_1336	DR97_1336	143	annotation not available
+287.DR97_1337	DR97_1337	321	annotation not available
+287.DR97_1338	DEGP1	383	annotation not available
+287.DR97_1339	DR97_1339	302	annotation not available
+287.DR97_134	DR97_134	315	2-dehydropantoate 2-reductase; Catalyzes the NADPH-dependent reduction of ketopantoate into pantoic acid
+287.DR97_1340	DR97_1340	241	annotation not available
+287.DR97_1341	DR97_1341	52	Conserved hypothetical protein
+287.DR97_1342	DR97_1342	351	portal_PBSX: phage portal protein, PBSX family
+287.DR97_1343	DR97_1343	593	annotation not available
+287.DR97_1344	DR97_1344	273	annotation not available
+287.DR97_1345	DR97_1345	338	major_capsid_P2: phage major capsid protein, P2 family
+287.DR97_1346	DR97_1346	233	annotation not available
+287.DR97_1347	DR97_1347	153	annotation not available
+287.DR97_1348	DR97_1348	70	annotation not available
+287.DR97_1349	DR97_1349	117	annotation not available
+287.DR97_135	DR97_135	126	annotation not available
+287.DR97_1350	DR97_1350	90	Conserved hypothetical protein
+287.DR97_1351	DR97_1351	268	annotation not available
+287.DR97_1352	DR97_1352	80	Conserved hypothetical protein
+287.DR97_1353	DR97_1353	153	phage_LysB: phage lysis regulatory , LysB family protein
+287.DR97_1354	DR97_1354	178	annotation not available
+287.DR97_1355	DR97_1355	152	tail_comp_S: phage virion morphogenesis protein
+287.DR97_1356	DR97_1356	190	phage_P2_V: phage baseplate assembly V family protein
+287.DR97_1357	DR97_1357	114	annotation not available
+287.DR97_1358	DR97_1358	304	annotation not available
+287.DR97_1359	DR97_1359	175	tail_P2_I: phage tail protein I
+287.DR97_136	aroF3	358	Phospho-2-dehydro-3-deoxyheptonate aldolase; Stereospecific condensation of phosphoenolpyruvate (PEP) and D-erythrose-4-phosphate (E4P) giving rise to 3-deoxy-D- arabino-heptulosonate-7-phosphate (DAHP)
+287.DR97_1360	DR97_1360	796	annotation not available
+287.DR97_1361	DR97_1361	153	annotation not available
+287.DR97_1362	DR97_1362	391	annotation not available
+287.DR97_1363	DR97_1363	171	Tail_tube: phage major tail tube protein
+287.DR97_1364	DR97_1364	109	annotation not available
+287.DR97_1365	DR97_1365	919	tape_meas_TP901: phage tail tape measure protein, TP901 family, core region
+287.DR97_1366	DR97_1366	146	annotation not available
+287.DR97_1367	DR97_1367	424	annotation not available
+287.DR97_1368	DR97_1368	333	annotation not available
+287.DR97_1369	DR97_1369	68	annotation not available
+287.DR97_137	DR97_137	94	annotation not available
+287.DR97_1370	DR97_1370	76	Conserved hypothetical protein
+287.DR97_1371	DR97_1371	167	annotation not available
+287.DR97_1372	DR97_1372	92	annotation not available
+287.DR97_1373	DR97_1373	119	Conserved hypothetical protein
+287.DR97_1374	DR97_1374	77	Conserved hypothetical protein
+287.DR97_1375	DR97_1375	905	annotation not available
+287.DR97_1376	DR97_1376	46	annotation not available
+287.DR97_1377	DR97_1377	243	annotation not available
+287.DR97_1378	DR97_1378	113	Conserved hypothetical protein
+287.DR97_1379	DR97_1379	146	annotation not available
+287.DR97_138	DR97_138	229	annotation not available
+287.DR97_1380	DR97_1380	58	annotation not available
+287.DR97_1381	DR97_1381	636	annotation not available
+287.DR97_1382	DR97_1382	410	annotation not available
+287.DR97_1383	DR97_1383	58	annotation not available
+287.DR97_1384	DR97_1384	122	annotation not available
+287.DR97_1385	DR97_1385	67	Conserved hypothetical protein
+287.DR97_1386	DR97_1386	400	annotation not available
+287.DR97_1387	DR97_1387	115	annotation not available
+287.DR97_1388	int5	327	annotation not available
+287.DR97_1389	DR97_1389	430	Uncharacterized protein
+287.DR97_139	DR97_139	62	Putative secreted protein
+287.DR97_1390	DR97_1390	36	annotation not available
+287.DR97_1391	DR97_1391	384	annotation not available
+287.DR97_1392	DR97_1392	39	annotation not available
+287.DR97_1393	DR97_1393	116	Conserved hypothetical protein
+287.DR97_1394	DR97_1394	201	annotation not available
+287.DR97_1395	DR97_1395	72	annotation not available
+287.DR97_1396	DR97_1396	83	Conserved hypothetical protein
+287.DR97_1397	DR97_1397	30	annotation not available
+287.DR97_1398	V3	144	annotation not available
+287.DR97_1399	DR97_1399	219	annotation not available
+287.DR97_14	modB	226	modB_ABC: molybdate ABC transporter, permease protein
+287.DR97_140	DR97_140	168	annotation not available
+287.DR97_1400	DR97_1400	71	Uncharacterized protein
+287.DR97_1401	DR97_1401	230	Uncharacterized protein
+287.DR97_1402	DR97_1402	504	annotation not available
+287.DR97_1403	DR97_1403	140	Uncharacterized protein
+287.DR97_1404	DR97_1404	97	Putative secreted protein
+287.DR97_1405	DR97_1405	85	UPF0386 protein AO964_17360; Belongs to the UPF0386 family
+287.DR97_1406	DR97_1406	168	annotation not available
+287.DR97_1407	gloA2	131	glyox_I: lactoylglutathione lyase
+287.DR97_1408	lsrG_2	98	annotation not available
+287.DR97_1409	DR97_1409	284	annotation not available
+287.DR97_141	DR97_141	162	Uncharacterized protein
+287.DR97_1410	toxR	259	annotation not available
+287.DR97_1411	cat	212	annotation not available
+287.DR97_1412	epsE_4	299	annotation not available
+287.DR97_1413	DR97_1413	464	annotation not available
+287.DR97_1414	DR97_1414	438	annotation not available
+287.DR97_1415	DR97_1415	221	annotation not available
+287.DR97_1416	DR97_1416	301	annotation not available
+287.DR97_1417	DR97_1417	328	annotation not available
+287.DR97_1418	DR97_1418	141	Uncharacterized protein
+287.DR97_1419	DR97_1419	314	annotation not available
+287.DR97_142	DR97_142	72	Uncharacterized protein
+287.DR97_1420	DR97_1420	159	annotation not available
+287.DR97_1421	DR97_1421	220	Uncharacterized protein
+287.DR97_1422	DR97_1422	568	Uncharacterized protein
+287.DR97_1423	DR97_1423	248	Uncharacterized protein; tonB_Cterm: TonB family C-terminal domain protein
+287.DR97_1424	exbD2	139	annotation not available
+287.DR97_1425	exbB2	615	annotation not available
+287.DR97_1426	DR97_1426	544	annotation not available
+287.DR97_1427	DR97_1427	200	Uncharacterized protein
+287.DR97_1428	DR97_1428	4180	Uncharacterized protein; adhes_NPXG: filamentous hemagglutinin family N-terminal domain protein
+287.DR97_1429	DR97_1429	199	annotation not available
+287.DR97_143	DR97_143	79	Putative membrane protein
+287.DR97_1430	DR97_1430	172	annotation not available
+287.DR97_1431	DR97_1431	368	annotation not available
+287.DR97_1432	outF	404	gspF: type II secretion system protein F
+287.DR97_1433	xcpR3	469	type_II_gspE: type II secretion system protein E
+287.DR97_1434	hxcQ	803	type_II_gspD: type II secretion system protein D
+287.DR97_1435	hxcZ	197	annotation not available
+287.DR97_1436	hxcY	403	annotation not available
+287.DR97_1437	hxcX	321	annotation not available
+287.DR97_1438	xcpT_3	149	typeII_sec_gspG: type II secretion system protein G
+287.DR97_1439	hxcV	124	gspI: type II secretion system protein I
+287.DR97_144	DR97_144	240	annotation not available
+287.DR97_1440	hxcP	143	annotation not available
+287.DR97_1441	hxcU	149	typeII_sec_gspH: type II secretion system protein H
+287.DR97_1442	hxcW	213	Uncharacterized protein; IV_pilin_GFxxxE: prepilin-type N-terminal cleavage/methylation domain protein
+287.DR97_1443	vreR	319	annotation not available
+287.DR97_1444	vreI	181	sigma70-ECF: RNA polymerase sigma factor, sigma-70 family protein
+287.DR97_1445	vreA	227	VreA; Secretin and TonB N terminus short domain protein
+287.DR97_1446	pigB	106	Uncharacterized protein
+287.DR97_1447	hemO	198	annotation not available
+287.DR97_1448	DR97_1448	223	Uncharacterized protein
+287.DR97_1449	DR97_1449	471	impB/mucB/samB family C-terminal domain protein
+287.DR97_145	DR97_145	123	annotation not available
+287.DR97_1450	dnaE2	1024	Polc: DNA polymerase III, alpha subunit
+287.DR97_1456	sbcD	409	Nuclease SbcCD subunit D; SbcCD cleaves DNA hairpin structures. These structures can inhibit DNA replication and are intermediates in certain DNA recombination reactions. The complex acts as a 3'->5' double strand exonuclease that can open hairpins. It also has a 5' single-strand endonuclease activity
+287.DR97_1457	sbcC	1211	Nuclease sbcCD subunit C; recF/RecN/SMC N terminal domain protein
+287.DR97_1458	recD	721	RecBCD enzyme subunit RecD; A helicase/nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holo [...] 
+287.DR97_1459	recB	1245	RecBCD enzyme subunit RecB; A helicase/nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holo [...] 
+287.DR97_146	DR97_146	332	annotation not available
+287.DR97_1460	recC	1171	RecBCD enzyme subunit RecC; A helicase/nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holo [...] 
+287.DR97_1461	DR97_1461	227	annotation not available
+287.DR97_1462	DR97_1462	296	annotation not available
+287.DR97_1463	DR97_1463	267	annotation not available
+287.DR97_1464	DR97_1464	525	annotation not available
+287.DR97_1465	chr	401	Transporter; 2A51: chromate transporter, chromate ion transporter family protein
+287.DR97_1466	DR97_1466	83	Uncharacterized protein
+287.DR97_1467	pitA	489	annotation not available
+287.DR97_1468	pprA	923	annotation not available
+287.DR97_1469	DR97_1469	154	annotation not available
+287.DR97_147	yajO	323	annotation not available
+287.DR97_1470	DR97_1470	160	annotation not available
+287.DR97_1471	algB_2	275	annotation not available
+287.DR97_1472	DR97_1472	556	annotation not available
+287.DR97_1473	DR97_1473	94	Putative secreted protein
+287.DR97_1474	DR97_1474	245	annotation not available
+287.DR97_1475	tadC	303	annotation not available
+287.DR97_1476	DR97_1476	294	annotation not available
+287.DR97_1477	cpaF2	421	annotation not available
+287.DR97_1478	tadZ	394	annotation not available
+287.DR97_1479	rcpA	416	annotation not available
+287.DR97_148	DR97_148	304	annotation not available
+287.DR97_1480	cpaB	303	pilus_cpaB: Flp pilus assembly protein CpaB
+287.DR97_1481	DR97_1481	72	annotation not available
+287.DR97_1482	pctC	632	annotation not available
+287.DR97_1483	yjgR	496	annotation not available
+287.DR97_1484	pctA	629	annotation not available
+287.DR97_1485	pctB	629	annotation not available
+287.DR97_1486	pimC	371	annotation not available
+287.DR97_1487	DR97_1487	253	Conserved hypothetical protein
+287.DR97_1488	DR97_1488	70	Conserved hypothetical protein
+287.DR97_1489	DR97_1489	333	TIGR00374 family protein
+287.DR97_149	DR97_149	714	annotation not available
+287.DR97_1490	purU	283	Formyltetrahydrofolate deformylase; Catalyzes the hydrolysis of 10-formyltetrahydrofolate (formyl-FH4) to formate and tetrahydrofolate (FH4)
+287.DR97_1491	mvaT	124	annotation not available
+287.DR97_1492	sbcB	478	Exonuclease C-terminal family protein
+287.DR97_1493	DR97_1493	245	annotation not available
+287.DR97_1494	DR97_1494	223	annotation not available
+287.DR97_1495	DR97_1495	326	Uncharacterized protein
+287.DR97_1496	DR97_1496	523	DUF4129 domain-containing protein
+287.DR97_1497	DR97_1497	423	Uncharacterized protein
+287.DR97_1498	DR97_1498	335	annotation not available
+287.DR97_1499	DR97_1499	443	annotation not available
+287.DR97_15	modC	361	Molybdenum import ATP-binding protein ModC; Part of the ABC transporter complex ModABC involved in molybdenum import. Responsible for energy coupling to the transport system; Belongs to the ABC transporter superfamily. Molybdate importer (TC 3.A.1.8) family
+287.DR97_150	fadA7	401	Putative acyltransferase Rv0859; acCoA-C-Actrans: acetyl-CoA C-acetyltransferase family protein; Belongs to the thiolase family
+287.DR97_1500	DR97_1500	119	Pilus assembly protein PilZ
+287.DR97_1501	DR97_1501	118	Uncharacterized protein
+287.DR97_1502	DR97_1502	125	annotation not available
+287.DR97_1503	DR97_1503	268	annotation not available
+287.DR97_1504	DR97_1504	304	annotation not available
+287.DR97_1505	pykA	483	Pyruv_kin: pyruvate kinase; Belongs to the pyruvate kinase family
+287.DR97_1506	paaF_1	257	annotation not available
+287.DR97_1507	ndoR	308	annotation not available
+287.DR97_1508	DR97_1508	375	GGDEF: diguanylate cyclase domain protein
+287.DR97_1509	fumA	507	Fumarate hydratase class I; Catalyzes the reversible hydration of fumarate to (S)- malate; Belongs to the class-I fumarase family
+287.DR97_151	DR97_151	33	annotation not available
+287.DR97_1510	mntH1	439	Divalent metal cation transporter MntH; H(+)-stimulated, divalent metal cation uptake system
+287.DR97_1511	DR97_1511	102	annotation not available
+287.DR97_1512	yfkM_1	193	General stress protein 18; pfpI: intracellular protease, PfpI family protein
+287.DR97_1513	DR97_1513	203	Uncharacterized protein
+287.DR97_1514	DR97_1514	428	annotation not available
+287.DR97_1515	DR97_1515	385	annotation not available
+287.DR97_1516	DR97_1516	190	annotation not available
+287.DR97_1517	kdgR_1	256	annotation not available
+287.DR97_1518	DR97_1518	494	annotation not available
+287.DR97_1519	DR97_1519	439	annotation not available
+287.DR97_152	DR97_152	295	annotation not available
+287.DR97_1520	hipO	406	Amidohydrolases: amidohydrolase family protein
+287.DR97_1521	DR97_1521	196	annotation not available
+287.DR97_1522	DR97_1522	111	Amidase
+287.DR97_1523	DR97_1523	371	annotation not available
+287.DR97_1524	DR97_1524	261	annotation not available
+287.DR97_1525	DR97_1525	298	annotation not available
+287.DR97_1526	DR97_1526	251	annotation not available
+287.DR97_1527	DR97_1527	286	annotation not available
+287.DR97_1528	DR97_1528	258	annotation not available
+287.DR97_1529	acpH	190	Acyl carrier protein phosphodiesterase
+287.DR97_153	DR97_153	273	annotation not available
+287.DR97_1530	DR97_1530	100	annotation not available
+287.DR97_1531	ydhP	388	annotation not available
+287.DR97_1532	nemA3	350	NADH:flavin oxidoreductase / NADH oxidase family protein
+287.DR97_1533	DR97_1533	80	annotation not available
+287.DR97_1534	feoB	766	Ferrous iron transport protein B; Probable transporter of a GTP-driven Fe(2+) uptake system
+287.DR97_1535	feoA	75	annotation not available
+287.DR97_1536	DR97_1536	278	annotation not available
+287.DR97_1537	DR97_1537	329	annotation not available
+287.DR97_1538	DR97_1538	87	Conserved hypothetical protein
+287.DR97_1539	argP	298	HTH-type transcriptional regulator ArgP; Controls the transcription of genes involved in arginine and lysine metabolism
+287.DR97_154	DR97_154	243	annotation not available
+287.DR97_1540	DR97_1540	352	annotation not available
+287.DR97_1541	DR97_1541	133	annotation not available
+287.DR97_1542	DR97_1542	200	annotation not available
+287.DR97_1543	DR97_1543	193	Superoxide dismutase; Destroys radicals which are normally produced within the cells and which are toxic to biological systems
+287.DR97_1544	DR97_1544	300	annotation not available
+287.DR97_1545	bifA	687	Protein BifA; GGDEF: diguanylate cyclase domain protein
+287.DR97_1546	DR97_1546	190	annotation not available
+287.DR97_1547	icmP	446	annotation not available
+287.DR97_1548	DR97_1548	471	annotation not available
+287.DR97_1549	DR97_1549	354	annotation not available
+287.DR97_155	tgpA_2	266	annotation not available
+287.DR97_1550	DR97_1550	364	Uncharacterized protein
+287.DR97_1551	DR97_1551	376	RND_mfp: efflux transporter, RND family, MFP subunit; Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family
+287.DR97_1552	DR97_1552	1018	annotation not available
+287.DR97_1553	pncB2	398	Nicotinate phosphoribosyltransferase; Catalyzes the synthesis of beta-nicotinate D- ribonucleotide from nicotinate and 5-phospho-D-ribose 1-phosphate at the expense of ATP
+287.DR97_1554	DR97_1554	80	Putative secreted protein
+287.DR97_1555	inaA	234	annotation not available
+287.DR97_1556	ubiE_3	227	annotation not available
+287.DR97_1557	colS	426	annotation not available
+287.DR97_1558	colR	227	annotation not available
+287.DR97_1559	DR97_1559	109	Uncharacterized protein
+287.DR97_156	DR97_156	317	Uncharacterized protein; A predicted alpha-helical domain with a conserved ER motif family protein
+287.DR97_1560	DR97_1560	264	annotation not available
+287.DR97_1561	crcB	127	Putative fluoride ion transporter CrcB; Important for reducing fluoride concentration in the cell, thus reducing its toxicity
+287.DR97_1562	DR97_1562	228	annotation not available
+287.DR97_1563	groL	547	60 kDa chaperonin; Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions
+287.DR97_1564	groS	97	10 kDa chaperonin; Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter
+287.DR97_1565	fxsA	155	annotation not available
+287.DR97_1566	DR97_1566	244	annotation not available
+287.DR97_1567	speA3	252	annotation not available
+287.DR97_1568	DR97_1568	309	Uncharacterized protein
+287.DR97_1569	DR97_1569	322	Uncharacterized protein
+287.DR97_157	DR97_157	470	annotation not available
+287.DR97_1570	ogt_1	127	annotation not available
+287.DR97_1571	ampG	594	2A0125: AmpG-like permease family protein
+287.DR97_1572	mscS_2	278	annotation not available
+287.DR97_1573	DR97_1573	159	UPF0234 protein PAMH19_3768; Belongs to the UPF0234 family
+287.DR97_1574	DR97_1574	321	annotation not available
+287.DR97_1575	panE	303	2-dehydropantoate 2-reductase; Catalyzes the NADPH-dependent reduction of ketopantoate into pantoic acid
+287.DR97_1576	DR97_1576	698	annotation not available
+287.DR97_1577	DR97_1577	192	Uncharacterized protein; ATP:cob(I)alamin adenosyltransferase, putative
+287.DR97_1578	DR97_1578	315	Mutt: mutator mutT family protein
+287.DR97_1579	yfcF	211	Glutathione S-transferase, N-terminal domain protein
+287.DR97_158	DR97_158	232	Uncharacterized protein
+287.DR97_1580	argJ	405	Arginine biosynthesis bifunctional protein ArgJ; Catalyzes two activities which are involved in the cyclic version of arginine biosynthesis: the synthesis of N- acetylglutamate from glutamate and acetyl-CoA as the acetyl donor, and of ornithine by transacetylation between N(2)-acetylornithine and glutamate; Belongs to the ArgJ family
+287.DR97_1581	secA	916	Protein translocase subunit SecA; Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. Has a central role in coupling the hydrolysis of ATP to the transfer of proteins into and across the cell membrane, serving both as a receptor for the preprotein-SecB complex and as an ATP-driven molecular motor driving the stepwise translocation of polypeptide chains across the membrane; Belongs to the SecA family
+287.DR97_1582	DR97_1582	307	annotation not available
+287.DR97_1583	DR97_1583	153	RNA-binding protein
+287.DR97_1584	lpxC	303	UDP-3-O-acyl-N-acetylglucosamine deacetylase; Catalyzes the hydrolysis of UDP-3-O-myristoyl-N- acetylglucosamine to form UDP-3-O-myristoylglucosamine and acetate, the committed step in lipid A biosynthesis; Belongs to the LpxC family
+287.DR97_1585	ftsZ	394	ftsZ: cell division protein FtsZ
+287.DR97_1586	ftsA	417	Cell division protein FtsA; Cell division protein that is involved in the assembly of the Z ring. May serve as a membrane anchor for the Z ring; Belongs to the FtsA/MreB family
+287.DR97_1587	ftsQ	287	Cell division protein FtsQ; Essential cell division protein. May link together the upstream cell division proteins, which are predominantly cytoplasmic, with the downstream cell division proteins, which are predominantly periplasmic. May control correct divisome assembly
+287.DR97_1588	ddl	319	D-alanine--D-alanine ligase; Cell wall formation; Belongs to the D-alanine--D-alanine ligase family
+287.DR97_1589	murC	469	UDP-N-acetylmuramate--L-alanine ligase; Cell wall formation; Belongs to the MurCDEF family
+287.DR97_159	DR97_159	113	annotation not available
+287.DR97_1590	murG	357	Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase; Cell wall formation. Catalyzes the transfer of a GlcNAc subunit on undecaprenyl-pyrophosphoryl-MurNAc-pentapeptide (lipid intermediate I) to form undecaprenyl-pyrophosphoryl-MurNAc- (pentapeptide)GlcNAc (lipid intermediate II); Belongs to the glycosyltransferase 28 family. MurG subfamily
+287.DR97_1591	ftsW	399	Probable peptidoglycan glycosyltransferase FtsW; Peptidoglycan polymerase that is essential for cell division; Belongs to the SEDS family. FtsW subfamily
+287.DR97_1592	murD	448	UDP-N-acetylmuramoylalanine--D-glutamate ligase; Cell wall formation. Catalyzes the addition of glutamate to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanine (UMA); Belongs to the MurCDEF family
+287.DR97_1593	mraY	360	Phospho-N-acetylmuramoyl-pentapeptide-transferase; First step of the lipid cycle reactions in the biosynthesis of the cell wall peptidoglycan; Belongs to the glycosyltransferase 4 family. MraY subfamily
+287.DR97_1594	murF	458	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase; Involved in cell wall formation. Catalyzes the final step in the synthesis of UDP-N-acetylmuramoyl-pentapeptide, the precursor of murein; Belongs to the MurCDEF family. MurF subfamily
+287.DR97_1595	murE	487	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase; Catalyzes the addition of meso-diaminopimelic acid to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanyl-D-glutamate (UMAG) in the biosynthesis of bacterial cell-wall peptidoglycan; Belongs to the MurCDEF family. MurE subfamily
+287.DR97_1596	DR97_1596	579	Peptidoglycan D,D-transpeptidase FtsI; Catalyzes cross-linking of the peptidoglycan cell wall at the division septum; Belongs to the transpeptidase family. FtsI subfamily
+287.DR97_1597	ftsL	97	Cell division protein FtsL; Essential cell division protein. May link together the upstream cell division proteins, which are predominantly cytoplasmic, with the downstream cell division proteins, which are predominantly periplasmic
+287.DR97_1598	rsmH	313	Ribosomal RNA small subunit methyltransferase H; Specifically methylates the N4 position of cytidine in position 1402 (C1402) of 16S rRNA
+287.DR97_1599	mraZ	134	annotation not available
+287.DR97_16	DR97_16	275	annotation not available
+287.DR97_160	DR97_160	685	Putative signaling protein PA1727; GGDEF: diguanylate cyclase domain protein
+287.DR97_1600	rsmI	282	Ribosomal RNA small subunit methyltransferase I; Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA
+287.DR97_1601	DR97_1601	604	annotation not available
+287.DR97_1602	DR97_1602	81	UPF0102 protein CAZ03_05850; Belongs to the UPF0102 family
+287.DR97_1603	gmhA	195	Phosphoheptose isomerase; Catalyzes the isomerization of sedoheptulose 7-phosphate in D-glycero-D-manno-heptose 7-phosphate
+287.DR97_1604	osmY_2	192	annotation not available
+287.DR97_1605	sspB	135	annotation not available
+287.DR97_1606	sspA	205	annotation not available
+287.DR97_1607	fbcH	260	annotation not available
+287.DR97_1608	petB	403	Cytochrome b; Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis
+287.DR97_1609	petA	197	Ubiquinol-cytochrome c reductase iron-sulfur subunit; Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis
+287.DR97_161	bglX	764	annotation not available
+287.DR97_1610	rpsI	130	annotation not available
+287.DR97_1611	rplM	142	50S ribosomal protein L13; This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly
+287.DR97_1612	tas	345	annotation not available
+287.DR97_1613	Acadl1	378	Long-chain specific acyl-CoA dehydrogenase, mitochondrial; acyl-CoA dehydrogenase, N-terminal domain protein
+287.DR97_1614	DR97_1614	332	annotation not available
+287.DR97_1615	DR97_1615	320	Uncharacterized protein
+287.DR97_1616	yhcM	364	Cell division protein ZapE; Reduces the stability of FtsZ polymers in the presence of ATP
+287.DR97_1617	trpS	448	trpS: tryptophan--tRNA ligase
+287.DR97_1618	DR97_1618	209	annotation not available
+287.DR97_1619	DR97_1619	148	Cytochrome D ubiquinol oxidase subunit III
+287.DR97_162	yscL	214	Yop proteins translocation protein L; hrpE_YscL_not: type III secretion apparatus protein, HrpE/YscL family
+287.DR97_1620	cysN/C	633	Multifunctional fusion protein; Catalyzes the synthesis of activated sulfate; Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. CysN/NodQ subfamily
+287.DR97_1621	cysD	305	cysD: sulfate adenylyltransferase, small subunit
+287.DR97_1622	DR97_1622	252	annotation not available
+287.DR97_1623	mltB3	367	mltB: lytic murein transglycosylase B
+287.DR97_1624	algW	389	annotation not available
+287.DR97_1625	hisC1	351	Histidinol-phosphate aminotransferase 1; hisC: histidinol-phosphate transaminase
+287.DR97_1626	hisD	440	Histidinol dehydrogenase; Catalyzes the sequential NAD-dependent oxidations of L- histidinol to L-histidinaldehyde and then to L-histidine
+287.DR97_1627	hisG	211	ATP phosphoribosyltransferase; Catalyzes the condensation of ATP and 5-phosphoribose 1- diphosphate to form N'-(5'-phosphoribosyl)-ATP (PR-ATP). Has a crucial role in the pathway because the rate of histidine biosynthesis seems to be controlled primarily by regulation of HisG enzymatic activity; Belongs to the ATP phosphoribosyltransferase family. Short subfamily
+287.DR97_1628	murA	421	UDP-N-acetylglucosamine 1-carboxyvinyltransferase; Cell wall formation. Adds enolpyruvyl to UDP-N- acetylglucosamine; Belongs to the EPSP synthase family. MurA subfamily
+287.DR97_1629	DR97_1629	79	annotation not available
+287.DR97_163	pscK	206	annotation not available
+287.DR97_1630	DR97_1630	102	annotation not available
+287.DR97_1631	ttg2D	215	annotation not available
+287.DR97_1632	mlaD	157	annotation not available
+287.DR97_1633	mlaE	265	Putative Phospholipid ABC transporter permease protein MlaE
+287.DR97_1634	mlaF	269	annotation not available
+287.DR97_1635	DR97_1635	30	annotation not available
+287.DR97_1636	kdsD	324	Arabinose 5-phosphate isomerase; kpsF: sugar isomerase, KpsF/GutQ family protein
+287.DR97_1637	DR97_1637	179	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC; Involved in the biosynthesis of lipopolysaccharides (LPSs). Catalyzes the hydrolysis of 3-deoxy-D-manno-octulosonate 8-phosphate (KDO 8-P) to 3-deoxy-D-manno-octulosonate (KDO) and inorganic phosphate; Belongs to the KdsC family
+287.DR97_1638	lptC	190	Lipopolysaccharide export system protein LptC; Involved in the assembly of lipopolysaccharide (LPS). Required for the translocation of LPS from the inner membrane to the outer membrane. Facilitates the transfer of LPS from the inner membrane to the periplasmic protein LptA. Could be a docking site for LptA
+287.DR97_1639	lptA	175	Lipopolysaccharide export system protein LptA; Involved in the assembly of lipopolysaccharide (LPS). Required for the translocation of LPS from the inner membrane to the outer membrane. May form a bridge between the inner membrane and the outer membrane, via interactions with LptC and LptD, thereby facilitating LPS transfer across the periplasm
+287.DR97_164	pscJ	238	III_secr_YscJ: type III secretion apparatus lipoprotein, YscJ/HrcJ family
+287.DR97_1640	lptB	241	annotation not available
+287.DR97_1641	rpoN	497	RNA polymerase sigma-54 factor; Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released
+287.DR97_1642	raiA	102	Ribosome hibernation promoting factor; yfiA: ribosomal subunit interface protein
+287.DR97_1643	ptsN	154	PTS fructose transporter subunit IIA; nitro_reg_IIA: PTS IIA-like nitrogen-regulatory protein PtsN
+287.DR97_1644	DR97_1644	286	Nucleotide-binding protein AO964_07660; Displays ATPase and GTPase activities
+287.DR97_1645	ptsH	90	PTS_HPr_: phosphocarrier, HPr family protein
+287.DR97_1646	DR97_1646	300	annotation not available
+287.DR97_1647	sodA	203	Superoxide dismutase; Destroys radicals which are normally produced within the cells and which are toxic to biological systems
+287.DR97_1648	DR97_1648	149	Uncharacterized protein
+287.DR97_1649	fumC1	458	Fumarate hydratase class II; Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate; Belongs to the class-II fumarase/aspartase family. Fumarase subfamily
+287.DR97_165	pscI	112	yscI_hrpB_dom: type III secretion apparatus protein, YscI/HrpB, C-terminal domain
+287.DR97_1650	fagA	131	annotation not available
+287.DR97_1651	pmbA	449	annotation not available
+287.DR97_1652	yjgA_2	174	UPF0307 protein AO964_14450; Belongs to the UPF0307 family
+287.DR97_1653	tldD	480	annotation not available
+287.DR97_1654	DR97_1654	282	annotation not available
+287.DR97_1655	DR97_1655	1276	Uncharacterized protein
+287.DR97_1656	rng	485	RNaseEG: ribonuclease, Rne/Rng family domain protein
+287.DR97_1657	DR97_1657	201	Maf-like protein PAMH19_3682; Maf: septum formation protein Maf
+287.DR97_1658	mreD	164	Rod shape-determining protein MreD; Involved in formation of the rod shape of the cell. May also contribute to regulation of formation of penicillin-binding proteins
+287.DR97_1659	mreC	330	mreC: rod shape-determining protein MreC
+287.DR97_166	pscH	143	Type III export protein PscH; type_III_yopR: type III secretion effector, YopR family
+287.DR97_1660	mreB	345	annotation not available
+287.DR97_1661	gatC	96	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C; Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp- tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln); Belongs to the GatC family
+287.DR97_1662	gatA	484	Glutamyl-tRNA(Gln) amidotransferase subunit A; Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in organisms which lack glutaminyl-tRNA synthetase. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu-tRNA(Gln)
+287.DR97_1663	gatB	481	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B; Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp- tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln); Belongs to the GatB/GatE family. GatB subfamily
+287.DR97_1664	DR97_1664	125	Endolytic peptidoglycan transglycosylase RlpA; Lytic transglycosylase with a strong preference for naked glycan strands that lack stem peptides
+287.DR97_1665	DR97_1665	128	annotation not available
+287.DR97_1666	yfaP	263	Uncharacterized protein
+287.DR97_1667	yfaQ	549	annotation not available
+287.DR97_1668	DR97_1668	1516	annotation not available
+287.DR97_1669	DR97_1669	216	Uncharacterized protein
+287.DR97_167	pscG	115	type_III_yscG: type III secretion protein, YscG family
+287.DR97_1670	DR97_1670	589	Uncharacterized protein
+287.DR97_1671	DR97_1671	269	Uncharacterized protein
+287.DR97_1672	regA	186	annotation not available
+287.DR97_1673	roxS	422	annotation not available
+287.DR97_1674	DR97_1674	236	Putative periplasmic/secreted protein
+287.DR97_1675	dppA9	537	annotation not available
+287.DR97_1676	dppA7	532	annotation not available
+287.DR97_1677	pepQ	405	annotation not available
+287.DR97_1678	puuR_1	187	annotation not available
+287.DR97_1679	dppA5	533	annotation not available
+287.DR97_168	eprI	85	EscF/YscF/HrpA family type III secretion system needle major subunit; III_needle: type III secretion apparatus needle protein
+287.DR97_1680	opdD	478	annotation not available
+287.DR97_1681	dppA3	531	annotation not available
+287.DR97_1682	dppB	336	annotation not available
+287.DR97_1683	dppC	303	annotation not available
+287.DR97_1684	dppD	324	oligo_HPY: oligopeptide/dipeptide ABC transporter, ATP-binding , C-terminal domain protein; Belongs to the ABC transporter superfamily
+287.DR97_1685	dppF	323	oligo_HPY: oligopeptide/dipeptide ABC transporter, ATP-binding , C-terminal domain protein; Belongs to the ABC transporter superfamily
+287.DR97_1686	rhtB_2	210	annotation not available
+287.DR97_1687	DR97_1687	157	annotation not available
+287.DR97_1688	DR97_1688	309	Uncharacterized protein
+287.DR97_1689	DR97_1689	225	annotation not available
+287.DR97_169	pscE	67	annotation not available
+287.DR97_1690	DR97_1690	251	UPF0271 protein CAZ10_20755; Belongs to the UPF0271 (lamB) family
+287.DR97_1691	lpxO1	299	annotation not available
+287.DR97_1692	piuB	850	annotation not available
+287.DR97_1693	DR97_1693	753	Outer membrane receptor for iron transport; tonB-siderophor: TonB-dependent siderophore receptor family protein
+287.DR97_1694	piuC	226	annotation not available
+287.DR97_1695	DR97_1695	271	annotation not available
+287.DR97_1696	cptA	600	annotation not available
+287.DR97_1697	DR97_1697	141	annotation not available
+287.DR97_1698	ldc	387	Pyridoxal-dependent decarboxylase, C-terminal sheet domain protein; Belongs to the Orn/Lys/Arg decarboxylase class-II family
+287.DR97_1699	mcp4_2	673	annotation not available
+287.DR97_17	yafC	295	annotation not available
+287.DR97_170	yscD	432	type_III_yscD: type III secretion apparatus protein, YscD/HrpQ family
+287.DR97_1700	ampE	278	annotation not available
+287.DR97_1701	ampD	188	annotation not available
+287.DR97_1702	DR97_1702	751	Thymidine phosphorylase
+287.DR97_1703	nadC	282	nadC: nicotinate-nucleotide diphosphorylase; Belongs to the NadC/ModD family
+287.DR97_1705	DR97_1705	392	annotation not available
+287.DR97_1706	pilA	154	annotation not available
+287.DR97_1707	pilB	566	type_IV_pilB: type IV-A pilus assembly ATPase PilB
+287.DR97_1708	pilC	405	annotation not available
+287.DR97_1709	pilD	290	Type 4 prepilin-like proteins leader peptide-processing enzyme; Cleaves type-4 fimbrial leader sequence and methylates the N-terminal (generally Phe) residue
+287.DR97_171	yscC	600	Yop proteins translocation protein C; type_III_yscC: type III secretion outer membrane pore, YscC/HrcC family
+287.DR97_1710	coaE	203	Dephospho-CoA kinase; Catalyzes the phosphorylation of the 3'-hydroxyl group of dephosphocoenzyme A to form coenzyme A; Belongs to the CoaE family
+287.DR97_1711	yacG	66	DNA gyrase inhibitor YacG; Inhibits all the catalytic activities of DNA gyrase by preventing its interaction with DNA. Acts by binding directly to the C-terminal domain of GyrB, which probably disrupts DNA binding by the gyrase
+287.DR97_1712	DR97_1712	69	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+287.DR97_1713	DR97_1713	229	annotation not available
+287.DR97_1714	DR97_1714	156	FAD/FMN-containing dehydrogenase
+287.DR97_1715	DR97_1715	141	annotation not available
+287.DR97_1716	DR97_1716	209	Uncharacterized protein
+287.DR97_1717	DR97_1717	149	annotation not available
+287.DR97_1718	DR97_1718	56	DUF3094 domain-containing protein
+287.DR97_1719	ndh	435	annotation not available
+287.DR97_172	pscB	140	Type III export apparatus protein; type_III_yscB: type III secretion system chaperone, YscB family
+287.DR97_1720	DR97_1720	352	annotation not available
+287.DR97_1721	DR97_1721	541	annotation not available
+287.DR97_1722	DR97_1722	1399	Large exoprotein; adhes_NPXG: filamentous hemagglutinin family N-terminal domain protein
+287.DR97_1723	DR97_1723	288	annotation not available
+287.DR97_1724	DR97_1724	245	Uncharacterized protein
+287.DR97_1725	DR97_1725	163	Uncharacterized protein
+287.DR97_1726	DR97_1726	220	Uncharacterized protein
+287.DR97_1727	DR97_1727	227	annotation not available
+287.DR97_1728	DR97_1728	233	Uncharacterized protein
+287.DR97_1729	DR97_1729	235	annotation not available
+287.DR97_173	exsD	276	annotation not available
+287.DR97_1730	DR97_1730	72	Uncharacterized protein
+287.DR97_1731	dnaB3	447	Replicative DNA helicase; Participates in initiation and elongation during chromosome replication; it exhibits DNA-dependent ATPase activity and contains distinct active sites for ATP binding, DNA binding, and interaction with DnaC protein, primase, and other prepriming proteins
+287.DR97_1732	DR97_1732	206	Conserved hypothetical protein
+287.DR97_1733	DR97_1733	61	Conserved hypothetical protein
+287.DR97_1734	DR97_1734	175	Uncharacterized protein
+287.DR97_1735	DR97_1735	85	Uncharacterized protein
+287.DR97_1736	DR97_1736	79	Conserved hypothetical protein
+287.DR97_1737	CP14	77	Uncharacterized protein
+287.DR97_1738	DR97_1738	340	annotation not available
+287.DR97_1739	DR97_1739	296	annotation not available
+287.DR97_174	exsA	278	annotation not available
+287.DR97_1740	DR97_1740	89	annotation not available
+287.DR97_1741	DR97_1741	576	annotation not available
+287.DR97_1742	DR97_1742	255	Uncharacterized protein
+287.DR97_1743	DR97_1743	434	Uncharacterized protein
+287.DR97_1744	DR97_1744	277	Conserved hypothetical protein
+287.DR97_1745	DR97_1745	65	Uncharacterized protein
+287.DR97_1746	DR97_1746	242	Integrating conjugative element protein, family
+287.DR97_1747	DR97_1747	182	Uncharacterized protein
+287.DR97_1748	DR97_1748	276	phage_pRha: phage regulatory , Rha family protein
+287.DR97_1749	DR97_1749	152	annotation not available
+287.DR97_175	exsB	137	Exoenzyme S synthesis protein B; yscW: type III secretion system chaperone YscW
+287.DR97_1750	DR97_1750	639	DNA topoisomerase 1; Releases the supercoiling and torsional tension of DNA, which is introduced during the DNA replication and transcription, by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at a target site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(5'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 3'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand, thus removing DNA super [...] 
+287.DR97_1751	CP28	69	annotation not available
+287.DR97_1752	DR97_1752	629	Uncharacterized protein
+287.DR97_1753	DR97_1753	658	Helicase; SNF2 family N-terminal domain protein
+287.DR97_1754	hth	96	annotation not available
+287.DR97_1755	relE	99	RelE
+287.DR97_1756	DR97_1756	374	annotation not available
+287.DR97_1757	DR97_1757	569	pilus_B_mal_scr: type IVB pilus formation outer membrane protein, R64 PilN family
+287.DR97_1758	DR97_1758	441	annotation not available
+287.DR97_1759	CP36	177	annotation not available
+287.DR97_176	DR97_176	81	annotation not available
+287.DR97_1760	DR97_1760	526	annotation not available
+287.DR97_1761	DR97_1761	359	annotation not available
+287.DR97_1762	DR97_1762	176	Type IV B pilus protein; pilS N terminal family protein
+287.DR97_1763	DR97_1763	318	annotation not available
+287.DR97_1764	DR97_1764	459	Pilus assembly protein PilV; Bacterial shufflon , N-terminal constant region family protein
+287.DR97_1765	DR97_1765	145	annotation not available
+287.DR97_1766	DR97_1766	188	Uncharacterized protein
+287.DR97_1767	DR97_1767	59	annotation not available
+287.DR97_1768	DR97_1768	44	annotation not available
+287.DR97_1769	DR97_1769	162	Uncharacterized protein
+287.DR97_177	exsC	145	annotation not available
+287.DR97_1770	DR97_1770	52	Uncharacterized protein
+287.DR97_1771	DR97_1771	65	Uncharacterized protein
+287.DR97_1772	DR97_1772	237	ABC-type amino acid transport/signal transduction system, periplasmic component/domain
+287.DR97_1773	DR97_1773	116	Uncharacterized protein
+287.DR97_1774	DR97_1774	210	Uncharacterized protein
+287.DR97_1775	DR97_1775	91	Pathogenesis-related protein
+287.DR97_1776	DR97_1776	120	Uncharacterized protein
+287.DR97_1777	DR97_1777	86	Uncharacterized protein
+287.DR97_1778	DR97_1778	201	Uncharacterized protein
+287.DR97_1779	DR97_1779	481	annotation not available
+287.DR97_178	pepD	295	annotation not available
+287.DR97_1780	DR97_1780	218	annotation not available
+287.DR97_1781	DR97_1781	227	Conserved hypothetical protein
+287.DR97_1782	DR97_1782	124	Conserved hypothetical protein
+287.DR97_1783	DR97_1783	197	Conserved hypothetical protein
+287.DR97_1784	DR97_1784	198	annotation not available
+287.DR97_1785	DR97_1785	107	annotation not available
+287.DR97_1786	DR97_1786	232	annotation not available
+287.DR97_1787	DR97_1787	90	annotation not available
+287.DR97_1788	CP63	232	Methyl-accepting chemotaxis protein
+287.DR97_1789	DR97_1789	251	annotation not available
+287.DR97_179	yopB	390	annotation not available
+287.DR97_1790	DR97_1790	193	Lytic transglycosylase
+287.DR97_1791	DR97_1791	166	Integrating conjugative element , PFL_4695 family domain protein; ICE_PFL_4695: integrating conjugative element , PFL_4695 family domain protein
+287.DR97_1792	DR97_1792	89	annotation not available
+287.DR97_1793	DR97_1793	743	TraG/TraD family protein; conj_TOL_TraD: conjugative coupling factor TraD, PFGI-1 class
+287.DR97_1794	DR97_1794	248	Uncharacterized protein
+287.DR97_1795	DR97_1795	493	uvrD/REP helicase N-terminal domain protein
+287.DR97_1796	DR97_1796	369	Conserved hypothetical protein
+287.DR97_1797	tnpA	988	Transposase for transposon Tn501; Required for transposition of transposon Tn501
+287.DR97_1798	DR97_1798	32	annotation not available
+287.DR97_1799	tnpR	186	Transposon Tn501 resolvase; Resolvase catalyzes the resolution (a site-specific recombination) of the cointegrated replicon to yield the final transposition products
+287.DR97_18	str	275	annotation not available
+287.DR97_180	lcrH	168	lcrH_SycD: type III secretion low calcium response chaperone LcrH/SycD
+287.DR97_1800	DR97_1800	202	annotation not available
+287.DR97_1801	DR97_1801	144	Mercuric resistance operon regulatory protein; Mediates the mercuric-dependent induction of mercury resistance operon. In the absence of mercury MerR represses transcription by binding tightly to the mer operator region; when mercury is present the dimeric complex binds a single ion and becomes a potent transcriptional activator, while remaining bound to the mer site
+287.DR97_1802	merT	116	Mercuric transport protein MerT; Involved in mercury resistance. Probably transfers a mercuric ion from the periplasmic Hg(2+)-binding protein MerP to the cytoplasmic mercuric reductase MerA (Probable); Belongs to the MerT family
+287.DR97_1803	merP	91	Mercuric transport protein periplasmic component; Involved in mercury resistance. Acts as a mercury scavenger that specifically binds to a mercuric ion in the periplasm and probably passes it to the cytoplasmic mercuric reductase MerA via the mercuric transport protein MerT (Probable); Belongs to the MerP family
+287.DR97_1804	DR97_1804	81	annotation not available
+287.DR97_1805	merA	548	merA: mercuric reductase
+287.DR97_1806	merD	121	merD: mercuric resistence transcriptional repressor protein MerD
+287.DR97_1807	merE	78	annotation not available
+287.DR97_1808	DR97_1808	204	Resolvase, N terminal domain protein
+287.DR97_1809	DR97_1809	405	annotation not available
+287.DR97_181	lcrV	294	annotation not available
+287.DR97_1810	tniB	302	annotation not available
+287.DR97_1811	DR97_1811	559	annotation not available
+287.DR97_1812	DR97_1812	188	annotation not available
+287.DR97_1813	DR97_1813	258	annotation not available
+287.DR97_1814	DR97_1814	194	annotation not available
+287.DR97_1815	DR97_1815	226	annotation not available
+287.DR97_1816	DR97_1816	75	annotation not available
+287.DR97_1817	DR97_1817	112	Candidate type III effector Hop protein
+287.DR97_1818	DR97_1818	49	Conserved hypothetical protein
+287.DR97_1819	DR97_1819	118	Uncharacterized protein
+287.DR97_182	pcrG	98	lcrG_PcrG: type III secretion protein LcrG
+287.DR97_1820	DR97_1820	128	TIGR03750 family conjugal transfer protein
+287.DR97_1821	DR97_1821	219	Uncharacterized protein
+287.DR97_1822	DR97_1822	294	Integrating conjugative element protein
+287.DR97_1823	DR97_1823	501	Uncharacterized protein
+287.DR97_1824	DR97_1824	147	annotation not available
+287.DR97_1825	DR97_1825	980	Uncharacterized protein; Conjugative transfer ATPase, PFL_4706 family; traC_PFL_4706: conjugative transfer ATPase, PFL_4706 family
+287.DR97_1826	DR97_1826	94	Uncharacterized protein
+287.DR97_1827	DR97_1827	72	Uncharacterized protein
+287.DR97_1828	DR97_1828	219	annotation not available
+287.DR97_1829	DR97_1829	207	Conserved hypothetical protein
+287.DR97_183	pcrR	144	lcrR: type III secretion system regulator LcrR
+287.DR97_1830	DR97_1830	312	annotation not available
+287.DR97_1831	DR97_1831	460	Integrating conjugative element protein, PFL_4711 family; conj_TIGR03755: integrating conjugative element protein, PFL_4711 family
+287.DR97_1832	DR97_1832	115	annotation not available
+287.DR97_1833	DR97_1833	504	traG-like , N-terminal region family protein
+287.DR97_1834	DR97_1834	90	Uncharacterized protein
+287.DR97_1835	DR97_1835	117	annotation not available
+287.DR97_1836	DR97_1836	304	Uncharacterized protein
+287.DR97_1837	DR97_1837	79	Conserved hypothetical protein
+287.DR97_1838	DR97_1838	273	annotation not available
+287.DR97_1839	DR97_1839	102	annotation not available
+287.DR97_184	invA	706	hrcV: type III secretion , HrcV family protein
+287.DR97_1840	DR97_1840	639	Relaxase; ICE_TraI_Pfluor: integrating conjugative element relaxase, PFGI-1 class
+287.DR97_1841	DR97_1841	426	Putative tyrosine recombinase XerC; Site-specific tyrosine recombinase, which acts by catalyzing the cutting and rejoining of the recombining DNA molecules; Belongs to the 'phage' integrase family
+287.DR97_1845	clpB	854	Chaperone protein ClpB; Part of a stress-induced multi-chaperone system, it is involved in the recovery of the cell from heat-induced damage, in cooperation with DnaK, DnaJ and GrpE; Belongs to the ClpA/ClpB family
+287.DR97_1846	yfiH_1	242	annotation not available
+287.DR97_1847	rluD	320	Pseudouridine synthase; Responsible for synthesis of pseudouridine from uracil
+287.DR97_1848	yfiO	341	Outer membrane protein assembly factor BamD; Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane
+287.DR97_1849	DR97_1849	81	Putative membrane protein
+287.DR97_185	yscY	109	annotation not available
+287.DR97_1850	pilS	530	annotation not available
+287.DR97_1851	pilR	445	annotation not available
+287.DR97_1852	thiO	364	Putative D-amino acid oxidase PA4548; thiamin_ThiO: glycine oxidase ThiO
+287.DR97_1853	fimT	169	Type 4 fimbrial biogenesis protein FimT; IV_pilin_GFxxxE: prepilin-type N-terminal cleavage/methylation domain protein
+287.DR97_1854	fimU	168	annotation not available
+287.DR97_1855	pilV	185	Type 4 fimbrial biogenesis protein; type_IV_pilV: type IV pilus modification protein PilV
+287.DR97_1856	pilW	274	Type 4 fimbrial biogenesis protein PilW; IV_pilin_GFxxxE: prepilin-type N-terminal cleavage/methylation domain protein
+287.DR97_1857	pilX	195	Type 4 fimbrial biogenesis protein PilX; pilX N-terminal family protein
+287.DR97_1858	pilY1	1163	annotation not available
+287.DR97_1859	pilY2	115	annotation not available
+287.DR97_186	pcr3	121	type_III_YscX: type III secretion protein, YscX family
+287.DR97_1860	pilE	141	Type 4 fimbrial biogenesis protein PilE; IV_pilin_GFxxxE: prepilin-type N-terminal cleavage/methylation domain protein
+287.DR97_1861	ispH	314	4-hydroxy-3-methylbut-2-enyl diphosphate reductase; Catalyzes the conversion of 1-hydroxy-2-methyl-2-(E)- butenyl 4-diphosphate (HMBPP) into a mixture of isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP). Acts in the terminal step of the DOXP/MEP pathway for isoprenoid precursor biosynthesis; Belongs to the IspH family
+287.DR97_1862	fkpB	146	annotation not available
+287.DR97_1863	DR97_1863	169	Lipoprotein signal peptidase; This protein specifically catalyzes the removal of signal peptides from prolipoproteins; Belongs to the peptidase A8 family
+287.DR97_1864	ileS	943	Isoleucine--tRNA ligase; Catalyzes the attachment of isoleucine to tRNA(Ile). As IleRS can inadvertently accommodate and process structurally similar amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile)
+287.DR97_1865	ribF	312	ribF: riboflavin biosynthesis protein RibF; Belongs to the ribF family
+287.DR97_1866	mviN	498	Probable lipid II flippase MurJ; Involved in peptidoglycan biosynthesis. Transports lipid-linked peptidoglycan precursors from the inner to the outer leaflet of the cytoplasmic membrane
+287.DR97_1867	rpsT	91	30S ribosomal protein S20; Binds directly to 16S ribosomal RNA
+287.DR97_1868	creA	154	annotation not available
+287.DR97_1869	proB	372	Glutamate 5-kinase; Catalyzes the transfer of a phosphate group to glutamate to form L-glutamate 5-phosphate
+287.DR97_187	sycN	123	type_III_SycN: type III secretion chaperone SycN
+287.DR97_1870	cgtA	406	GTPase Obg; An essential GTPase which binds GTP, GDP and possibly (p)ppGpp with moderate affinity, with high nucleotide exchange rates and a fairly low GTP hydrolysis rate. Plays a role in control of the cell cycle, stress response, ribosome biogenesis and in those bacteria that undergo differentiation, in morphogenesis control; Belongs to the TRAFAC class OBG-HflX-like GTPase superfamily. OBG GTPase family
+287.DR97_1871	rpmA	85	L27: ribosomal protein L27; Belongs to the bacterial ribosomal protein bL27 family
+287.DR97_1872	rplU	103	50S ribosomal protein L21; This protein binds to 23S rRNA in the presence of protein L20
+287.DR97_1873	ispB	322	annotation not available
+287.DR97_1874	DR97_1874	74	Uncharacterized protein
+287.DR97_1875	DR97_1875	675	annotation not available
+287.DR97_1876	fklB	205	annotation not available
+287.DR97_1877	DR97_1877	101	Uncharacterized protein
+287.DR97_1878	DR97_1878	162	UPF0114 protein PAMH19_3493
+287.DR97_1879	DR97_1879	113	Conserved hypothetical protein
+287.DR97_188	tyeA	92	annotation not available
+287.DR97_1880	DR97_1880	817	Endopeptidase La; Lon protease (S16) C-terminal proteolytic domain protein; Belongs to the peptidase S16 family
+287.DR97_1881	DR97_1881	108	annotation not available
+287.DR97_1882	DR97_1882	162	Uncharacterized protein
+287.DR97_1883	ybiA	184	Swarming motility protein YbiA; Ribofla_fusion: conserved hypothetical domain protein
+287.DR97_1884	DR97_1884	610	Uncharacterized protein
+287.DR97_1885	rtcR	531	annotation not available
+287.DR97_1887	DR97_1887	381	annotation not available
+287.DR97_1888	rtcB	404	annotation not available
+287.DR97_1889	ycgL	270	annotation not available
+287.DR97_189	yopN	288	Outer membrane protein yopN; lcrE: type III secretion regulator YopN/LcrE/InvE/MxiC
+287.DR97_1890	rtcA	341	RNA 3'-terminal phosphate cyclase; Catalyzes the conversion of 3'-phosphate to a 2',3'- cyclic phosphodiester at the end of RNA. The mechanism of action of the enzyme occurs in 3 steps: (A) adenylation of the enzyme by ATP; (B) transfer of adenylate to an RNA-N3'P to produce RNA- N3'PP5'A; (C) and attack of the adjacent 2'-hydroxyl on the 3'- phosphorus in the diester linkage to produce the cyclic end product. The biological role of this enzyme is unknown but it is likely to function in some aspects of cellular RNA processing
+287.DR97_1891	DR97_1891	125	annotation not available
+287.DR97_1892	ccpA	346	annotation not available
+287.DR97_1893	gdhA1	445	annotation not available
+287.DR97_1894	DR97_1894	461	Putative outer membrane protein
+287.DR97_1895	pra	162	annotation not available
+287.DR97_1896	DR97_1896	425	HlyD family secretion protein; RND_mfp: efflux transporter, RND family, MFP subunit
+287.DR97_1897	DR97_1897	493	annotation not available
+287.DR97_1898	DR97_1898	397	annotation not available
+287.DR97_1899	macB1	237	annotation not available
+287.DR97_19	DR97_19	35	annotation not available
+287.DR97_190	yscN	429	Putative ATP synthase YscN; III_secr_ATP: type III secretion apparatus H+-transporting two-sector ATPase
+287.DR97_1900	DR97_1900	554	Energy-dependent translational throttle protein EttA; ccmA: heme ABC exporter, ATP-binding protein CcmA
+287.DR97_1901	DR97_1901	83	annotation not available
+287.DR97_1902	nfxB3	172	annotation not available
+287.DR97_1903	oprJ	479	annotation not available
+287.DR97_1904	acrB	1043	2A0602: RND transporter, hydrophobe/amphiphile efflux-1 family protein
+287.DR97_1905	acrA	354	Acriflavine resistance protein A; RND_mfp: efflux transporter, RND family, MFP subunit; Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family
+287.DR97_1906	nfxb	187	annotation not available
+287.DR97_1907	morA	1415	Motility regulator; GGDEF: diguanylate cyclase domain protein
+287.DR97_1908	glyA2	417	Serine hydroxymethyltransferase; Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. This reaction serves as the major source of one-carbon groups required for the biosynthesis of purines, thymidylate, methionine, and other important biomolecules. Also exhibits THF- independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism
+287.DR97_1909	DR97_1909	124	Uncharacterized protein
+287.DR97_191	pscO	158	annotation not available
+287.DR97_1910	yjiA	334	Putative GTP-binding protein YjiA; Cobalamin synthesis cobW C-terminal domain protein
+287.DR97_1911	DR97_1911	67	DUF466 domain-containing protein
